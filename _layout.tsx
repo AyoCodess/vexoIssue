@@ -125,7 +125,7 @@ Sentry.init({
 // Remove this method to stop OneSignal Debugging
 // OneSignal.Debug.setLogLevel(LogLevel.Verbose);
 // OneSignal Initialization
-OneSignal.initialize("9e4455d0-9bb2-49d7-9c61-1d984880e588");
+OneSignal.initialize("SOMEURL");
 
 function Root() {
 
